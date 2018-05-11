@@ -1,29 +1,3 @@
-<<<<<<< eb83b5b9b43aa67617f00b4647127aac5072abaf
-# Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone: Asia/Shanghai
-
-# URL
-url: https://mrlittlerain.github.io/
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
-
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
-theme: jekyll-theme-minimal
-=======
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -160,4 +134,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
->>>>>>> no message
