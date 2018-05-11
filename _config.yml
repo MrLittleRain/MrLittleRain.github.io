@@ -1,1 +1,23 @@
-baseurl: /weekly-newspaper
+# Site
+title: Hexo
+subtitle:
+description:
+author: John Doe
+language:
+timezone: Asia/Shanghai
+
+# URL
+url: https://mrlittlerain.github.io/
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
