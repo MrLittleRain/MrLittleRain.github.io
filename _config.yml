@@ -21,3 +21,4 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+theme: jekyll-theme-minimal
